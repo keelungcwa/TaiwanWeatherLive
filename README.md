@@ -7,3 +7,6 @@ TaiwanWeatherLive
 自適應佈局，支援桌面與手機。
 即時時間顯示（CST，格式：現在時間：YYYY-MM-DD HH:MM:SS）。
 按鈕切換不同地區直播，選中樣式為白底黑框黑字。
+
+# 部署
+透過 GitHub Pages 部署：https://keelungcwa.github.io/TaiwanWeatherLive/
